@@ -45,7 +45,7 @@
               </div>
             </div>
           </div>
-        <? } ?>
+        <?php } ?>
 
           <hr class="mb-4">
 
